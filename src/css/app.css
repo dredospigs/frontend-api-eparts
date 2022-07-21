@@ -1,0 +1,44 @@
+.mainBlue{
+    background-color: #0c3c74 !important
+}
+.modalBlue{
+    background-color: #5096fc;
+}
+.tableDesign{
+    color: #595757;
+    table-layout: fixed;
+}
+.mt-6{
+    margin-top: 5em;
+}
+.fontNavBar{
+    font-size: medium;
+    font-family: "Franklin Gothic Medium";
+}
+.tblCenterAlign{
+    text-align:center
+}
+.tblRightAlign{
+    text-align:right
+}
+
+@font-face {
+    font-family: avayoBold;
+    src: url(../fonts/avayoDemiBold.otf);
+}
+@font-face {
+    font-family: avayoRegular;
+    src: url(../fonts/avayoRegular.otf);
+}
+.fontAvayoBold{
+    font-family: avayoBold;
+}
+.fontAvayoRegular{
+    font-family: avayoRegular;
+}
+.fontSegoe{
+    font-family:Segoe UI;
+}
+.mtn-1{
+    margin-top: -1%;
+}
