@@ -3,9 +3,9 @@ O Front-end da API do jogo, utilizando como base um protótipo de tela com um mo
 
 ## 💻 Funcionamento
 
-- `Requer o Backend` pode ser obtido no outro repositório https://github.com/dredospigs/jogo-api, e ligando o servidor local na porta 3000.
-- `Instalação` Após baixar ou clonar esse repositório, dê "npm install" no prompt de comando para instalar as dependência.
-- `Inicializar` Em seguida, rode o comando "npm start" e caso tudo esteja certo, a página estará disponível na porta 4000 do seu localhost.
+- `Requer o Backend` pode ser obtido no outro repositório bem [aqui]( https://github.com/dredospigs/jogo-api), e ligando o servidor local na porta 3000.
+- `Instalação` Após baixar ou clonar esse repositório, dê `npm install` no prompt de comando para instalar as dependência.
+- `Inicializar` Em seguida, rode o comando `npm start` e caso tudo esteja certo sem nenhum erro, a página estará disponível na porta 4000 do seu localhost.
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
