@@ -7,6 +7,10 @@ angular.module('ePartsTest').controller('mainController', function($scope, playe
         playersAPI.readPlayers()
         .then((res) => {            
             $scope.users = res.data
+            $scope.msg = "Jogadores"
+        })
+        .catch(() => {
+            $scope.msg = "Houve um erro ao obter os jogadores"
         })
     }
 
